@@ -1,5 +1,7 @@
 # PwC-PowerBI-Dashboard
 
+Create a Call Center Analysis dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+
  * Completed a job simulation where I strengthened my PowerBI skills to better
    understand clients and their data visualisation needs.  
  * Demonstrated expertise in data visualization through the creation of Power BI
